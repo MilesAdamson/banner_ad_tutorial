@@ -24,7 +24,7 @@ buildscript {
    ...
 }
    ```
-3. Add a meta-data to the application section of the Android Manifest:
+3. Add a meta-data to the application section of the Android Manifest. Below is a test app id you can use
 ```
 <meta-data
        android:name="com.google.android.gms.ads.APPLICATION_ID"
